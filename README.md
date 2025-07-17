@@ -65,10 +65,9 @@ npm install<br>
 npm start          
 
 ## Usage
-Open the system interface in a browser or client.
-Register or log in using valid credentials.
-Search for parking spots based on location and time.
-Book or cancel reservations and view booking history.
-Use map view for real-time traffic and directions.
-Access analytics and personalized suggestions.
-
+- Open the system interface in a browser or client.
+- Register or log in using valid credentials.
+- Search for parking spots based on location and time.
+- Book or cancel reservations and view booking history.
+- Use map view for real-time traffic and directions.
+- Access analytics and personalized suggestions.
