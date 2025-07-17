@@ -56,7 +56,7 @@ This fork is maintained to showcase the above contributions and is intended for 
 
 ## Installation
 
-1. Clone the repository:
+1. Clone the repository:<br>
 git clone https://github.com/Manz6/smart-car-parking-systems.git<br>
 cd smart-car-parking-systems<br>
 2. Install the dependencies:<br>
