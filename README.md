@@ -1,45 +1,15 @@
-# smart-car-parking-systems
+Smart Car Parking System (Personal Fork)
 
-The Smart Car Parking System is designed to simplify finding, reserving, and managing parking spots in real-time. The system offers a user-friendly interface, advanced analytics, and various features to enhance the user experience.
+This is a personal fork of a group project developed as part of an academic assignment. The system helps users find, reserve, and manage parking spots in real-time through an intuitive interface and intelligent features.
 
-Features
-1. Spot Reservation and Cancelation<br>
-View and Reserve Parking Lots: Users can browse available parking lots in a given area and reserve them for specific dates and times.<br>
-Real-Time Data Updates: The system updates parking lot availability in real-time.<br>
-Search and Filter Options: Easily navigate through lots using search bars and filters.<br>
-Notifications: Receive email confirmations and updates about reservations.<br>
-Cancel Reservations: Users can cancel or modify their reservations at any time.<br>
+Key Features
+- **Real-Time Reservation**: View and book available spots with live updates.
+- **Smart Suggestions**: Personalized recommendations based on user history and location.
+- **Waitlist Management**: Join waitlists and auto-book when spots free up.
+- **Parking Analytics**: Predict availability using past trends and display traffic conditions.
+- **Map Integration**: View spots and traffic on an interactive map.
+- **Additional Services**: Book car wash, repair, or pre-order food nearby.
 
-2. Parking Analytics<br>
-Predictive Analytics: Forecast future parking availability based on historical data and trends.<br>
-Traffic Visualization: Map-based views of traffic flow and congestion.<br>
-Historical Trends: Access past data to identify patterns and plan visits more effectively.<br>
 
-3. Reservation Management<br>
-Update Reservation Times: Change reservation times with real-time availability checks and cost adjustments.<br>
-Alternative Time Slots: The system suggests alternatives if the requested time is unavailable.<br>
 
-4. Personalized Recommendations<br>
-Preference-Based Suggestions: Recommendations based on user preferences and past behavior.<br>
-Proximity Recommendations: Parking spots near the user's location or destination.<br>
-Feedback System: Users can rate parking spots to improve future suggestions.<br>
 
-5. Waitlist System<br>
-Join Waitlists: Users can join a waitlist for fully booked spots and receive notifications when spots become available.<br>
-Automatic Reservation: Seamless conversion from waitlist to reservation when a spot opens up.<br>
-
-6. Login and Logout<br>
-Stay Logged In: Option to stay logged in on trusted devices.<br>
-Login History: Monitor login attempts for security.<br>
-Multiple Devices: Log in on multiple devices and manage active sessions.<br>
-Selective Logout: Log out from specific devices or all devices simultaneously.<br>
-
-7. Map Visualization and Navigation<br>
-Map of Parking Spots: View available parking spots on a map near the current location.<br>
-Traffic Conditions: See real-time traffic updates to estimate travel times.<br>
-Save Locations: Save frequently used locations for quick access.<br>
-Offline Navigation: Download map data for offline use.<br>
-
-8. Additional Services<br>
-Book Services: Book car services (e.g., wash or repair) directly through the app.<br>
-Pre-Order Food: Order food from nearby restaurants to be ready upon arrival.<br>
