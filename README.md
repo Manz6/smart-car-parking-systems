@@ -57,7 +57,7 @@ This fork is maintained to showcase the above contributions and is intended for 
 ## Installation
 
 1. Clone the repository:
-git clone https://github.com/your-username/smart-car-parking-systems.git
+git clone https://github.com/Manz6/smart-car-parking-systems.git
 cd smart-car-parking-systems
 2. Install the dependencies:
 npm install         
